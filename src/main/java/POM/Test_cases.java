@@ -22,7 +22,6 @@ public class Test_cases extends Object_reposit {
 public void gettingwebsite() {
 		
 		driver.get(p.getProperty("url"));
-		System.out.println("testing");
 
 	}
 	
